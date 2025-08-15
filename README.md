@@ -15,7 +15,7 @@ Fast, lightweight, and serverless.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/) — fast build tool
 - [Deezer API](https://developers.deezer.com/api)
-- CSS / Tailwind (optional)
+- MaterialUI (https://mui.com/) 
 
 ## 📦 Installation & Run
 1. Clone the repository:
